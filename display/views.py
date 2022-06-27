@@ -20,10 +20,7 @@ def index(request):
             </style>
         </head>
         <body style="background-image:linear-gradient(to right,red,yellow,red)">
-            <h1 style="text-align:center;
-            background: -webkit-linear-gradient(blue,white);
-            -webkit-background-clip:text;
-            -webkit-text-fill-color:transparent;">
+            <h1 style="text-align:center;">
             Current Date and Time
             </h1>
             
